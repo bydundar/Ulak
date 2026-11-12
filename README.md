@@ -126,6 +126,12 @@ Windows 10/11, .NET Framework 4.0+ (preinstalled on most Windows systems).
 
 The application does not collect or transmit personal data; the only connections it makes are the DNS lookups and SMTP sessions you explicitly start.
 
+### Ticari markalar / Trademarks
+
+Gmail, Outlook/Microsoft 365 ve Proton Mail ilgili şirketlerin ticari markalarıdır; Ulak bu şirketlerle bağlantılı değildir ve onlar tarafından onaylanmamıştır.
+
+Gmail, Outlook/Microsoft 365 and Proton Mail are trademarks of their respective owners; Ulak is not affiliated with or endorsed by them.
+
 ---
 
 ## İndirme / Download
