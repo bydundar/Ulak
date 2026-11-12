@@ -22,6 +22,14 @@ E-posta güvenlik ürünleri (gateway, ETP/ATP, bulut mail güvenliği çözüml
 - **Çıkış IP + SPF önerisi** — tek tıkla dışarı çıkış IP'nizi ve önerilen SPF kaydını gösterir, panoya kopyalar
 - Hata durumlarında (SPF/DMARC reddi, kara liste, tenant connector kısıtı, AUTH hatası, TLS sertifika sorunu vb.) Türkçe, nedenine yönelik ipuçları sunar
 
+### Ekran görüntüleri
+
+*Görüntülerdeki hesap adları, IP'ler ve bulgular yazarın kendi test oturumundan gerçek verilerdir; üçüncü bir kişiyi tanımlayan hiçbir bilgi içermez.*
+
+| MX sorgulama (başarılı) | Adres doğrulama |
+|---|---|
+| ![MX sorgulama](screenshots/mx-lookup.png) | ![Adres doğrulama](screenshots/address-verify.png) |
+
 ### Mimari ilkeleri
 
 - **Tek `.exe`** — kurulum yok, kayıt defterine (registry) yalnızca lisans bilgisi yazar
@@ -67,6 +75,14 @@ When deploying an email security product (gateway, ETP/ATP, cloud mail security,
 - **Relay mode** — authenticated test sends through your own SMTP account (Proton Bridge/SMTP token, Gmail app password, Microsoft 365)
 - **Egress IP + SPF suggestion** — shows your outbound IP and a suggested SPF record in one click, copied to clipboard
 - On failure (SPF/DMARC rejection, blocklist hit, tenant connector restriction, AUTH failure, TLS certificate issue, etc.) it gives plain-language, cause-specific hints
+
+### Screenshots
+
+*Account names, IPs and findings are real test data from the author's own session; nothing in these images identifies a third party.*
+
+| MX lookup (success) | Address verification |
+|---|---|
+| ![MX lookup](screenshots/mx-lookup.png) | ![Address verification](screenshots/address-verify.png) |
 
 ### Architecture principles
 
