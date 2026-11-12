@@ -30,6 +30,14 @@ E-posta güvenlik ürünleri (gateway, ETP/ATP, bulut mail güvenliği çözüml
 |---|---|
 | ![MX sorgulama](screenshots/mx-lookup.png) | ![Adres doğrulama](screenshots/address-verify.png) |
 
+| Kara liste reddi (Spamhaus) | Proton.me adres doğrulama |
+|---|---|
+| ![Spamhaus reddi](screenshots/outlook-spamhaus-block.png) | ![Proton adres doğrulama](screenshots/proton-address-verify.png) |
+
+| Başarılı test gönderimi | Alıcı kutusunda görünen test maili |
+|---|---|
+| ![Başarılı gönderim](screenshots/proton-send-success.png) | ![Alınan mail](screenshots/proton-webmail-received.png) |
+
 ### Mimari ilkeleri
 
 - **Tek `.exe`** — kurulum yok, kayıt defterine (registry) yalnızca lisans bilgisi yazar
@@ -83,6 +91,14 @@ When deploying an email security product (gateway, ETP/ATP, cloud mail security,
 | MX lookup (success) | Address verification |
 |---|---|
 | ![MX lookup](screenshots/mx-lookup.png) | ![Address verification](screenshots/address-verify.png) |
+
+| Blocklist rejection (Spamhaus) | Proton.me address verification |
+|---|---|
+| ![Spamhaus rejection](screenshots/outlook-spamhaus-block.png) | ![Proton address verification](screenshots/proton-address-verify.png) |
+
+| Successful test send | Test email as received in the inbox |
+|---|---|
+| ![Successful send](screenshots/proton-send-success.png) | ![Received email](screenshots/proton-webmail-received.png) |
 
 ### Architecture principles
 
