@@ -1,0 +1,31 @@
+Ulak — Proprietary Software License
+
+Copyright (c) 2026, all rights reserved.
+
+This repository distributes the compiled Ulak application for evaluation
+and licensed use only. The application (and any source code, should it
+ever be included in this repository) is proprietary, commercial software.
+No license is granted to you under this notice except:
+
+1. You may download and run the compiled application for evaluation
+   purposes. In this mode, the user interface is viewable, but features
+   that perform a live MX lookup, address verification, or send a test
+   email require a valid, separately issued license key.
+
+2. You may not redistribute, sell, sublicense, rent, or lease the
+   application without prior written permission from the copyright holder.
+
+3. You may not reverse engineer, decompile, disassemble, or otherwise
+   attempt to derive the source code of the application, except to the
+   extent such restriction is expressly prohibited by applicable law.
+
+4. You may not remove or alter any proprietary notices, licensing
+   mechanisms, or copy protection included in the application.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM THE
+USE OF THE SOFTWARE.
+
+For licensing inquiries, contact: bo.dundar@outlook.com
